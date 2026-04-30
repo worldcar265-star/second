@@ -1,0 +1,13 @@
+# Claude Code 설정
+.claude/
+
+# macOS
+.DS_Store
+
+# Obsidian workspace state (자주 바뀌는 UI 상태)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 옵시디언 휴지통
+.trash/
