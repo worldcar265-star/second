@@ -6,6 +6,7 @@
 태그: [MBTI, ENTJ, Crusader, 성격, 인지유형]
 출처-근거: PersonalityOS PDF 보고서 (사용자 직접 검사 결과)
 확실도: 검사결과=확정 / 사용자 적용 해석=추론
+요약: 박준호의 최신 MBTI 검사 결과는 ENTJ "The Crusader".
 ---
 
 # MBTI — ENTJ Crusader
