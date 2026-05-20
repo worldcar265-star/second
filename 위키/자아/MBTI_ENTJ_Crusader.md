@@ -1,8 +1,8 @@
 ---
 유형: 자아
 생성: 2026-05-01
-갱신: 2026-05-01
-원본: [[원본/외부/ENTJ_Crusader_PersonalityOS]]
+갱신: 2026-05-14
+원본: PersonalityOS ENTJ Crusader PDF (저장소 외부 보관 — 본 저장소에 파일 미포함)
 태그: [MBTI, ENTJ, Crusader, 성격, 인지유형]
 출처-근거: PersonalityOS PDF 보고서 (사용자 직접 검사 결과)
 확실도: 검사결과=확정 / 사용자 적용 해석=추론
