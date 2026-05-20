@@ -14,3 +14,6 @@
 
 # Claude 비주얼 브레인스토밍 임시 파일
 .superpowers/
+
+# 외부 자료 검색 캐시 (PDF 텍스트 추출본 등 — 저작권 보호 자료의 본문, 본인 기기에만)
+.recipe_search_cache/
