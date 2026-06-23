@@ -7,6 +7,7 @@
 # Obsidian workspace state (자주 바뀌는 UI 상태)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 .obsidian/cache
 
 # 옵시디언 휴지통
